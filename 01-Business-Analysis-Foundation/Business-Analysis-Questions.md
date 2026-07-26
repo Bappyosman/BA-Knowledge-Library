@@ -1,3 +1,395 @@
+অবশ্যই। নিচে আমি একজন **Expert Business Analyst-এর মতো কোনো নতুন Business শুরু করার আগে ১৩টি ক্যাটাগরিতে ১৫০+ প্রশ্নের একটি Complete Business Analysis Questionnaire** দিলাম।
+
+তুমি চাইলে প্রতিটি Business Idea-এর জন্য এই প্রশ্নগুলোর উত্তর লিখে **Business Analysis Report** তৈরি করতে পারবে।
+
+---
+
+# 🚀 Part 1: Business Idea Analysis
+
+1. ব্যবসার মূল ধারণাটি কী?
+2. ব্যবসাটি কোন সমস্যা সমাধান করছে?
+3. সমস্যাটি কার?
+4. সমস্যাটি কতটা গুরুত্বপূর্ণ?
+5. Customer বর্তমানে সমস্যাটি কীভাবে সমাধান করছে?
+6. বর্তমান সমাধানগুলোর সমস্যা কী?
+7. আমাদের Solution কী?
+8. আমাদের Solution কেন ভালো?
+9. এই Business Idea কেন এখন শুরু করা হচ্ছে?
+10. এই Idea-এর মূল উদ্দেশ্য কী?
+11. Business-এর Vision কী?
+12. Business-এর Mission কী?
+13. Business-এর Short-term Goal কী?
+14. Business-এর Long-term Goal কী?
+15. Business-এর মূল Value Proposition কী?
+16. এই Idea-এর সবচেয়ে বড় শক্তি কী?
+17. এই Idea-এর সবচেয়ে বড় দুর্বলতা কী?
+18. Business Idea-এর সবচেয়ে বড় Risk কী?
+19. এই Business Idea সফল হলে কী পরিবর্তন হবে?
+20. Business ব্যর্থ হলে সম্ভাব্য কারণ কী?
+
+---
+
+# 👥 Part 2: Customer Analysis
+
+21. আমাদের Target Customer কে?
+22. Primary Customer কে?
+23. Secondary Customer কে?
+24. Customer-এর বয়স কত?
+25. Customer কোথায় থাকে?
+26. Customer কী কাজ করে?
+27. Customer-এর Income Level কেমন?
+28. Customer-এর Education Level কেমন?
+29. Customer-এর Lifestyle কেমন?
+30. Customer-এর প্রধান Problem কী?
+31. Customer-এর প্রধান Pain Point কী?
+32. Customer-এর সবচেয়ে বড় Frustration কী?
+33. Customer কী চায়?
+34. Customer কী পেতে ভয় পায়?
+35. Customer-এর প্রধান Motivation কী?
+36. Customer কীভাবে Purchase Decision নেয়?
+37. Customer কার পরামর্শ গ্রহণ করে?
+38. Customer কোথায় Information খোঁজে?
+39. Customer কোন Social Media ব্যবহার করে?
+40. Customer বর্তমানে কোন Product ব্যবহার করছে?
+41. Customer বর্তমান Solution নিয়ে সন্তুষ্ট কি?
+42. Customer কী পরিবর্তন করতে চায়?
+43. Customer এই সমস্যার জন্য কত টাকা খরচ করে?
+44. Customer কত টাকা দিতে রাজি?
+45. Customer কত ঘন ঘন কিনবে?
+46. Customer-এর Buying Trigger কী?
+47. Customer-এর Buying Objection কী?
+48. Customer কেন আমাদের Product কিনবে না?
+49. Customer-এর কাছে সবচেয়ে গুরুত্বপূর্ণ Feature কোনটি?
+50. Customer-এর জন্য সবচেয়ে গুরুত্বপূর্ণ Benefit কোনটি?
+
+---
+
+# 🧑‍💼 Part 3: Customer Persona & Journey
+
+51. আমাদের Ideal Customer দেখতে কেমন?
+52. Customer-এর একটি Typical Day কেমন?
+53. Customer কখন সমস্যাটি অনুভব করে?
+54. Customer প্রথম কোথায় আমাদের সম্পর্কে জানবে?
+55. Customer কীভাবে আমাদের Research করবে?
+56. Customer কীভাবে Compare করবে?
+57. Customer Purchase Decision কীভাবে নেবে?
+58. Purchase করার সময় Customer কী অনুভব করবে?
+59. Purchase-এর পরে Customer-এর Experience কেমন হবে?
+60. Customer কীভাবে Repeat Customer হবে?
+61. Customer কীভাবে আমাদের Recommend করবে?
+62. Customer Journey-এর সবচেয়ে দুর্বল অংশ কোনটি?
+63. কোন Stage-এ Customer হারিয়ে যেতে পারে?
+64. Customer-এর Journey কীভাবে সহজ করা যায়?
+65. Customer-এর কোন Emotional Need আমরা পূরণ করছি?
+
+---
+
+# 🌍 Part 4: Market Analysis
+
+66. মোট Market Size কত?
+67. Target Market কত বড়?
+68. Market কি বাড়ছে?
+69. Market কি কমছে?
+70. Market-এর Growth Rate কত?
+71. Market-এর প্রধান Trend কী?
+72. Market-এর Future কেমন?
+73. Market কি Seasonal?
+74. Market-এ Demand আছে?
+75. Demand কি বাড়ছে?
+76. Market-এ Supply কত?
+77. Demand এবং Supply-এর মধ্যে Gap কোথায়?
+78. Market-এর সবচেয়ে বড় Problem কী?
+79. Market-এর কোন Segment সবচেয়ে বেশি Profitable?
+80. Market-এর কোন Segment এখনও Underserved?
+81. Market-এ Entry Barrier কী?
+82. Market-এ Regulatory Barrier আছে?
+83. Market-এ নতুন Business-এর সুযোগ কোথায়?
+84. Market-এর Customer কীভাবে বিভক্ত?
+85. আমাদের Market Share Target কত?
+86. আমাদের TAM কত?
+87. আমাদের SAM কত?
+88. আমাদের SOM কত?
+89. Market-এর সবচেয়ে দ্রুত বাড়তে থাকা Segment কোনটি?
+90. এই Market ৫ বছর পরে কেমন হতে পারে?
+
+---
+
+# 🥊 Part 5: Competitor Analysis
+
+91. আমাদের Direct Competitor কারা?
+92. আমাদের Indirect Competitor কারা?
+93. Customer কেন Competitor-এর কাছ থেকে কিনে?
+94. Competitor-এর Price কত?
+95. Competitor কী Product/Service দিচ্ছে?
+96. Competitor-এর সবচেয়ে বড় Strength কী?
+97. Competitor-এর সবচেয়ে বড় Weakness কী?
+98. Competitor-এর Customer Experience কেমন?
+99. Competitor কীভাবে Marketing করে?
+100. Competitor কোন Channel ব্যবহার করে?
+101. Competitor-এর Brand Positioning কী?
+102. Competitor-এর Customer কী নিয়ে অভিযোগ করে?
+103. Competitor-এর Customer কী পছন্দ করে?
+104. Competitor-এর Review কী বলছে?
+105. Competitor-এর Market Share কত?
+106. Competitor-এর Unique Selling Proposition কী?
+107. Competitor আমাদের Copy করলে কী হবে?
+108. আমরা কীভাবে Competitor থেকে আলাদা হব?
+109. আমাদের Competitive Advantage কী?
+110. আমাদের Business-এর Moat কী?
+
+---
+
+# 📦 Part 6: Product / Service Analysis
+
+111. আমরা ঠিক কী বিক্রি করছি?
+112. Product-এর মূল Function কী?
+113. Product-এর প্রধান Benefit কী?
+114. Product-এর Must-Have Feature কী?
+115. কোন Feature বাদ দেওয়া যায়?
+116. MVP কী হবে?
+117. Product-এর Quality কীভাবে মাপব?
+118. Product কীভাবে ব্যবহার করা হবে?
+119. Customer Product ব্যবহার করতে কত সময় নেবে?
+120. Product-এর Learning Curve কেমন?
+121. Product-এর Design কেমন হওয়া উচিত?
+122. Product-এর Packaging কেমন হবে?
+123. Product-এর Warranty থাকবে?
+124. Return Policy কী হবে?
+125. Refund Policy কী হবে?
+126. Customer Support কীভাবে দেওয়া হবে?
+127. Product-এর Future Version কী হতে পারে?
+128. Customer Feedback কীভাবে সংগ্রহ করব?
+129. Product কীভাবে Improve করব?
+130. Product-এর সবচেয়ে বড় Limitation কী?
+
+---
+
+# 💰 Part 7: Business Model Analysis
+
+131. আমরা কীভাবে Revenue Generate করব?
+132. Revenue Model কী?
+133. One-time Sales হবে?
+134. Subscription Model হবে?
+135. Commission Model হবে?
+136. Freemium Model হবে?
+137. Advertising Model হবে?
+138. Affiliate Model হবে?
+139. আমাদের Primary Revenue Source কী?
+140. Secondary Revenue Source কী?
+141. প্রতি Customer থেকে কত Revenue হবে?
+142. Customer Acquisition Cost কত?
+143. Customer Lifetime Value কত?
+144. Average Order Value কত?
+145. Repeat Purchase Rate কত?
+146. Customer Churn Rate কত?
+147. Gross Margin কত?
+148. Net Profit Margin কত?
+149. Business Model Scale করা যাবে?
+150. Business Model Sustainable কি না?
+
+---
+
+# 💷 Part 8: Financial Analysis
+
+151. Business শুরু করতে কত টাকা লাগবে?
+152. Initial Investment কত?
+153. Fixed Cost কত?
+154. Variable Cost কত?
+155. Monthly Operating Cost কত?
+156. Employee Cost কত?
+157. Marketing Cost কত?
+158. Technology Cost কত?
+159. Rent Cost কত?
+160. Inventory Cost কত?
+161. প্রতি Product-এর Cost কত?
+162. প্রতি Product-এ Profit কত?
+163. Monthly Revenue Target কত?
+164. Monthly Profit Target কত?
+165. Break-even Point কখন?
+166. কত Customer হলে Break-even হবে?
+167. কত Sales হলে Break-even হবে?
+168. Cash Flow কেমন হবে?
+169. কত মাসের Operating Expense হাতে থাকা উচিত?
+170. Best-case Financial Scenario কী?
+171. Realistic Financial Scenario কী?
+172. Worst-case Financial Scenario কী?
+173. Business-এর ROI কত?
+174. Business-এ Additional Funding লাগবে?
+175. Business কখন Profitability অর্জন করবে?
+
+---
+
+# 📣 Part 9: Marketing Analysis
+
+176. আমাদের Brand Positioning কী?
+177. আমাদের Brand Message কী?
+178. আমাদের USP কী?
+179. Customer কীভাবে আমাদের সম্পর্কে জানবে?
+180. কোন Marketing Channel ব্যবহার করব?
+181. Facebook Marketing দরকার?
+182. Google Marketing দরকার?
+183. YouTube Marketing দরকার?
+184. TikTok Marketing দরকার?
+185. Influencer Marketing দরকার?
+186. Content Marketing দরকার?
+187. SEO দরকার?
+188. Email Marketing দরকার?
+189. Offline Marketing দরকার?
+190. Marketing Budget কত?
+191. Customer Acquisition Cost কত?
+192. কোন Content সবচেয়ে ভালো কাজ করবে?
+193. Customer কী ধরনের Ad-এ Respond করবে?
+194. Marketing Funnel কেমন হবে?
+195. Retargeting কীভাবে করব?
+196. Conversion Rate কত Target করব?
+197. Marketing Success কীভাবে মাপব?
+198. কোন KPI Track করব?
+199. Brand Awareness কীভাবে মাপব?
+200. Customer Retention কীভাবে বাড়াব?
+
+---
+
+# ⚙️ Part 10: Operations Analysis
+
+201. Business-এর Daily Operation কী?
+202. Product কোথা থেকে আসবে?
+203. Supplier কারা?
+204. Supplier-এর Backup আছে?
+205. Inventory কীভাবে পরিচালনা করব?
+206. Order কীভাবে Process হবে?
+207. Delivery কীভাবে হবে?
+208. Customer Support কে দেবে?
+209. Return কীভাবে Process হবে?
+210. Quality Control কীভাবে হবে?
+211. কোন কাজ Automation করা যাবে?
+212. কোন কাজ Manual থাকবে?
+213. Business-এর SOP কী হবে?
+214. কোন কাজের জন্য কতজন Employee লাগবে?
+215. Employee-এর Role কী?
+216. কাজের দায়িত্ব কার?
+217. Process-এর Bottleneck কোথায়?
+218. Business কত Customer Handle করতে পারবে?
+219. Business Scale করলে কী পরিবর্তন লাগবে?
+220. Business Continuity Plan কী?
+
+---
+
+# 💻 Part 11: Technology Analysis
+
+221. Website দরকার?
+222. Mobile App দরকার?
+223. Admin Panel দরকার?
+224. Customer Account দরকার?
+225. Seller Account দরকার?
+226. Database কী হবে?
+227. Payment Gateway কী হবে?
+228. Authentication কীভাবে হবে?
+229. Data Security কীভাবে নিশ্চিত করব?
+230. User Data কীভাবে সংরক্ষণ করব?
+231. Third-party API দরকার?
+232. Notification System দরকার?
+233. Analytics System দরকার?
+234. CRM দরকার?
+235. Inventory Software দরকার?
+236. Technology Cost কত?
+237. System কত User Handle করতে পারবে?
+238. System Scale করা যাবে?
+239. Backup System আছে?
+240. Technology Failure হলে কী হবে?
+
+---
+
+# ⚖️ Part 12: Legal & Compliance Analysis
+
+241. Business Registration দরকার?
+242. Trade License দরকার?
+243. Tax Registration দরকার?
+244. Business-এর Legal Structure কী হবে?
+245. কোনো License দরকার?
+246. কোনো Government Regulation আছে?
+247. Customer Data Protection কীভাবে করব?
+248. Privacy Policy দরকার?
+249. Terms & Conditions দরকার?
+250. Refund Policy Legal কি না?
+251. Supplier Contract দরকার?
+252. Employee Contract দরকার?
+253. Intellectual Property কীভাবে Protect করব?
+254. Trademark দরকার?
+255. Copyright কীভাবে Protect করব?
+
+---
+
+# ⚠️ Part 13: Risk Analysis
+
+256. Business-এর সবচেয়ে বড় Risk কী?
+257. Market Risk কী?
+258. Financial Risk কী?
+259. Operational Risk কী?
+260. Technology Risk কী?
+261. Legal Risk কী?
+262. Cybersecurity Risk কী?
+263. Supplier Risk কী?
+264. Competitor Risk কী?
+265. Customer Risk কী?
+266. Founder Risk কী?
+267. কোন Risk-এর Probability বেশি?
+268. কোন Risk-এর Impact বেশি?
+269. Risk হলে কীভাবে মোকাবিলা করব?
+270. Backup Plan কী?
+271. Business বন্ধ হয়ে যাওয়ার সম্ভাব্য কারণ কী?
+272. Worst-case Scenario কী?
+273. Business Continuity Plan কী?
+274. Emergency Fund আছে?
+275. Risk Monitor করার Process কী?
+
+---
+
+# 📊 Part 14: Feasibility Analysis
+
+276. Business Idea Technicalভাবে সম্ভব?
+277. Financialভাবে সম্ভব?
+278. Market-এ Demand আছে?
+279. Operations পরিচালনা করা সম্ভব?
+280. Legalভাবে Business করা সম্ভব?
+281. সময়ের মধ্যে Business Launch করা সম্ভব?
+282. আমাদের কাছে প্রয়োজনীয় Skill আছে?
+283. Team-এর Skill Gap কোথায়?
+284. External Expert দরকার?
+285. Business Launch করার জন্য কী কী Resource লাগবে?
+286. সবচেয়ে বড় Constraint কী?
+287. Business-এর সবচেয়ে বড় Dependency কী?
+288. Business এখনই শুরু করা উচিত?
+289. Business শুরু করার আগে কী Validate করতে হবে?
+290. Business Idea-এর Go অথবা No-Go Decision কী?
+
+---
+
+# 🎯 সবচেয়ে গুরুত্বপূর্ণ Final Decision Framework
+
+সব প্রশ্নের উত্তর পাওয়ার পর আমি এই ৫টি বিষয়ে Score দিতাম:
+
+| Analysis Area         | Score |
+| --------------------- | ----- |
+| Market Opportunity    | /10   |
+| Customer Demand       | /10   |
+| Competition           | /10   |
+| Financial Viability   | /10   |
+| Execution Feasibility | /10   |
+
+### Decision:
+
+* **40-50:** Strong Business Opportunity
+* **30-39:** কিছু পরিবর্তন করে শুরু করা যেতে পারে
+* **20-29:** অনেক Risk আছে
+* **Below 20:** Business Idea পুনর্বিবেচনা করা উচিত
+
+তুমি চাইলে আমি পরবর্তী ধাপে তোমার জন্য একটি **Professional Business Analysis Template** তৈরি করতে পারি, যেখানে প্রতিটি প্রশ্নের পাশে থাকবে:
+
+**Question → Your Answer → Evidence → Analysis → Risk → Recommendation → Final Decision**
+
+এটি তোমার **IT Business Analyst Portfolio-এর জন্যও একটি real-world Business Analysis Project** হিসেবে ব্যবহার করা যাবে।
+
+
 Assume that I have a new business idea. Before I start working on this idea or launch it as a business,
 analyze it comprehensively as an experienced Business Strategist, Market Researcher, Product Strategist,
 Startup Consultant, and Financial Analyst. My idea could be a tech company, software product, SaaS platform,
