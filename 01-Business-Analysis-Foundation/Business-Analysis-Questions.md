@@ -433,3 +433,437 @@ Clearly distinguish between:
 If important information is missing, ask me the necessary follow-up questions before giving a final conclusion.
 
 Your goal is not simply to make the idea sound good. Your goal is to determine whether the idea is actually worth pursuing, how it can be improved, how it can be validated, and how it can become a sustainable and profitable business.
+
+ধরে নিন, আমার একটি নতুন ব্যবসায়িক ধারণা আছে। এই ধারণা নিয়ে কাজ শুরু করার বা এটিকে ব্যবসা হিসেবে চালু করার আগে, একজন অভিজ্ঞ Business Strategist, Market Researcher, Product Strategist, Startup Consultant এবং Financial Analyst হিসেবে ধারণাটিকে ব্যাপকভাবে বিশ্লেষণ করুন। আমার ধারণাটি একটি প্রযুক্তি কোম্পানি, সফটওয়্যার পণ্য, SaaS প্ল্যাটফর্ম, মোবাইল অ্যাপ্লিকেশন, ওয়েবসাইট, মার্কেটপ্লেস, AI পণ্য অথবা অন্য যেকোনো ধরনের ব্যবসা হতে পারে।
+
+নিচের কাঠামো ব্যবহার করে ধারণাটিকে গভীরভাবে এবং পদ্ধতিগতভাবে বিশ্লেষণ করুন:
+
+## ১. সমস্যা বিশ্লেষণ
+
+* এই ধারণাটি বাস্তব জীবনের কোন সমস্যার সমাধান করে?
+* সমস্যাটি কতটা গুরুত্বপূর্ণ এবং জরুরি?
+* কারা এই সমস্যার সম্মুখীন হয়?
+* মানুষ বর্তমানে কীভাবে এই সমস্যার সমাধান করছে?
+* বর্তমান সমাধানগুলোর দুর্বলতা কী?
+* এটি কি সত্যিকারের একটি গুরুত্বপূর্ণ সমস্যা, নাকি শুধু Nice-to-Have সমস্যা?
+
+## ২. Problem-Solution Fit বিশ্লেষণ
+
+* প্রস্তাবিত সমাধানটি কি চিহ্নিত সমস্যার কার্যকর সমাধান করে?
+* বিদ্যমান বিকল্পগুলোর তুলনায় সমাধানটি কি ভালো?
+* গ্রাহকদের বর্তমান আচরণ পরিবর্তন করার মতো যথেষ্ট মূল্য কি এই সমাধান প্রদান করে?
+* সমাধানটি সত্যিই কাজ করে তা প্রমাণ করার জন্য কী ধরনের প্রমাণ প্রয়োজন?
+
+## ৩. Target Customer বিশ্লেষণ
+
+* আদর্শ গ্রাহক কারা?
+* তাদের বয়স, অবস্থান, পেশা, আয়ের স্তর, আগ্রহ, প্রয়োজন এবং আচরণ কী?
+* Primary এবং Secondary Customer Segment কারা?
+* গ্রাহকরা কেন এই পণ্য বা সেবা ব্যবহার করবে?
+* কারা Early Adopter হওয়ার সম্ভাবনা সবচেয়ে বেশি?
+
+## ৪. Market Analysis
+
+* সম্ভাব্য বাজারের আকার কত বড়?
+* TAM, SAM এবং SOM কী?
+* বাজারের বর্তমান অবস্থা কেমন?
+* বাজারটি কি বৃদ্ধি পাচ্ছে, স্থিতিশীল, নাকি সংকুচিত হচ্ছে?
+* প্রধান বাজার প্রবণতাগুলো কী?
+* ভবিষ্যতে বৃদ্ধির সম্ভাবনা কতটা?
+* এই বাজারে বড় কোনো সুযোগ আছে কি?
+
+## ৫. Competitor Analysis
+
+Direct এবং Indirect উভয় ধরনের প্রতিযোগী শনাক্ত ও বিশ্লেষণ করুন।
+
+* প্রধান প্রতিযোগীরা কারা?
+* তাদের পণ্য বা সেবা কীভাবে কাজ করে?
+* তাদের শক্তি ও দুর্বলতা কী?
+* তাদের Pricing Strategy কী?
+* তাদের গ্রাহকরা কী পছন্দ ও অপছন্দ করে?
+* বর্তমান বাজারে কী কী Gap রয়েছে?
+* আমার ধারণাটি কীভাবে প্রতিযোগীদের থেকে আলাদা হতে পারে?
+* প্রতিযোগীদের জন্য এই ধারণাটি কপি করা কতটা সহজ হবে?
+
+## ৬. Unique Value Proposition এবং Differentiation
+
+* Unique Value Proposition (UVP) কী হওয়া উচিত?
+* Unique Selling Proposition (USP) কী হতে পারে?
+* বিদ্যমান বিকল্পের পরিবর্তে গ্রাহকরা কেন আমার পণ্য বেছে নেবে?
+* এই ব্যবসার সবচেয়ে শক্তিশালী Competitive Advantage কী?
+* এই Competitive Advantage কি দীর্ঘমেয়াদে ধরে রাখা সম্ভব?
+
+## ৭. Product-Market Fit বিশ্লেষণ
+
+* এই পণ্যের জন্য কি শক্তিশালী চাহিদা রয়েছে?
+* গ্রাহকরা কি এর জন্য অর্থ প্রদান করতে আগ্রহী?
+* কোন প্রমাণ Product-Market Fit-এর সম্ভাবনা নির্দেশ করবে?
+* Product-Market Fit পরিমাপ করার জন্য কোন Metrics ট্র্যাক করা উচিত?
+* কোন ধরনের Customer Feedback নির্দেশ করবে যে পণ্যটিতে পরিবর্তন আনা প্রয়োজন?
+
+## ৮. Business Model Analysis
+
+* এই ব্যবসা কীভাবে আয় করবে?
+* কোন Business Model সবচেয়ে উপযুক্ত?
+
+সম্ভাব্য Business Model:
+
+* Subscription
+* Commission
+* One-time Payment
+* Advertising
+* Freemium
+* Marketplace
+* Licensing
+* B2B
+* B2C
+* B2B2C
+* অথবা অন্য কোনো মডেল
+
+এছাড়াও বিশ্লেষণ করুন:
+
+* Pricing Strategy
+* Revenue Streams
+* Customer Willingness to Pay
+* Revenue Scalability
+* Long-term Profitability
+
+## ৯. Product এবং MVP Analysis
+
+* Minimum Viable Product (MVP)-এ কোন Features থাকা উচিত?
+* Launch-এর জন্য কোন Features অপরিহার্য?
+* কোন Features পরবর্তীতে যোগ করা উচিত?
+* পণ্যের Core Value Proposition কী হওয়া উচিত?
+* পণ্যটি তৈরি করা কতটা জটিল হবে?
+* Development Difficulty কতটা হতে পারে?
+* Product Roadmap কেমন হওয়া উচিত?
+
+## ১০. Technical Feasibility Analysis
+
+ধারণাটির Technical Requirements বিশ্লেষণ করুন।
+
+* কোন Programming Language প্রয়োজন হতে পারে?
+* কোন Framework এবং Library উপযুক্ত হতে পারে?
+* কোন Database Technology ব্যবহার করা উচিত?
+* কোন API এবং Third-party Service প্রয়োজন হতে পারে?
+* কী ধরনের Cloud Infrastructure প্রয়োজন হতে পারে?
+* কোন Security Considerations গুরুত্বপূর্ণ?
+* কী ধরনের Scalability Challenge দেখা দিতে পারে?
+* একজন Beginner, Solo Founder অথবা Small Team কি এই পণ্য তৈরি করতে পারবে?
+* কোন Technical Skills এবং Team Member প্রয়োজন হবে?
+
+## ১১. Founder-Product Fit Analysis
+
+নিচের বিষয়গুলোর ভিত্তিতে বিশ্লেষণ করুন যে Founder এই ধারণাটি বাস্তবায়নের জন্য উপযুক্ত কি না:
+
+* বিদ্যমান Skills
+* Technical Knowledge
+* Business Knowledge
+* Industry Knowledge
+* Experience
+* Available Time
+* Financial Resources
+* Network এবং Connections
+
+কোন Skills ইতিমধ্যে রয়েছে এবং কোন Skills উন্নত করতে বা Outsource করতে হবে তা শনাক্ত করুন।
+
+## ১২. Market Entry Strategy
+
+* এই ব্যবসা কীভাবে বাজারে প্রবেশ করবে?
+* প্রথমে কোন Niche বা Customer Segment লক্ষ্য করা উচিত?
+* প্রাথমিক Geographic Market কোনটি হওয়া উচিত?
+* ব্যবসাটি কি Local Market থেকে শুরু করা উচিত, নাকি Global Market লক্ষ্য করা উচিত?
+* প্রথম User পাওয়ার জন্য সবচেয়ে ভালো Strategy কী?
+
+## ১৩. Go-to-Market Strategy
+
+একটি বাস্তবসম্মত Launch Strategy তৈরি করুন।
+
+বিশ্লেষণ করুন:
+
+* Pre-launch Strategy
+* Launch Strategy
+* Post-launch Strategy
+* First Customer Acquisition Strategy
+* Distribution Channels
+* Partnerships
+* Community Building
+* Product-led Growth Opportunities
+
+## ১৪. Marketing Strategy
+
+Target Customer-দের কাছে পৌঁছানোর জন্য বিশ্লেষণ করুন:
+
+* Organic Marketing
+* Social Media Marketing
+* SEO
+* Content Marketing
+* Email Marketing
+* Paid Advertising
+* Influencer Marketing
+* Community Marketing
+* Referral Marketing
+* Partnerships
+
+এই নির্দিষ্ট ব্যবসার জন্য সবচেয়ে কার্যকর Marketing Channel শনাক্ত করুন।
+
+## ১৫. Customer Acquisition এবং Retention Analysis
+
+* ব্যবসাটি কীভাবে প্রথম ১০০ জন Customer অর্জন করতে পারে?
+* কীভাবে ১,০০০ Customer-এ পৌঁছানো সম্ভব?
+* কীভাবে ১০,০০০ বা তার বেশি Customer-এ Scale করা সম্ভব?
+* Customer Acquisition Cost (CAC) কত হতে পারে?
+* Customer Lifetime Value (LTV) কত হতে পারে?
+* CAC কমানোর জন্য কী Strategy ব্যবহার করা যেতে পারে?
+* Customer Retention কীভাবে উন্নত করা যায়?
+* কোন কারণে Customer পণ্য ব্যবহার করা বন্ধ করতে পারে?
+
+## ১৬. Unit Economics Analysis
+
+প্রতিটি Customer বা Transaction-এর অর্থনৈতিক বিশ্লেষণ করুন।
+
+হিসাব বা অনুমান করুন:
+
+* Customer Acquisition Cost (CAC)
+* Customer Lifetime Value (LTV)
+* Average Revenue Per User (ARPU)
+* Gross Margin
+* Contribution Margin
+* Customer Payback Period
+* Churn Rate
+
+Unit Economics টেকসই কি না তা নির্ধারণ করুন।
+
+## ১৭. Financial Analysis
+
+অনুমান করুন:
+
+* Initial Startup Costs
+* Product Development Costs
+* Marketing Costs
+* Employee অথবা Freelancer Costs
+* Technology এবং Infrastructure Costs
+* Monthly Operating Costs
+* Potential Revenue
+* Potential Profit
+* Cash Flow Requirements
+* Break-even Point
+* Financial Risks
+* Best-case, Realistic-case এবং Worst-case Financial Scenarios
+
+Financial Analysis-এ ব্যবহৃত সব Assumption স্পষ্টভাবে উল্লেখ করুন।
+
+## ১৮. Scalability Analysis
+
+ব্যবসাটি Scale করা সম্ভব কি না তা বিশ্লেষণ করুন।
+
+* পণ্যটি কি ১,০০০, ১০,০০০ অথবা ১০,০০,০০০ User পরিচালনা করতে পারবে?
+* ব্যবসা বৃদ্ধির সঙ্গে Costs কীভাবে পরিবর্তিত হবে?
+* Revenue কি Expenses-এর চেয়ে দ্রুত বৃদ্ধি পেতে পারে?
+* ব্যবসা বৃদ্ধির সময় কী ধরনের Operational Challenge দেখা দিতে পারে?
+* ব্যবসাটি কি বৃদ্ধি পাওয়ার জন্য আরও বেশি মানুষ নিয়োগের ওপর নির্ভরশীল?
+
+## ১৯. Network Effects Analysis
+
+আরও বেশি User যুক্ত হলে পণ্যটি আরও মূল্যবান হয়ে ওঠে কি না তা নির্ধারণ করুন।
+
+বিশ্লেষণ করুন:
+
+* Direct Network Effects
+* Indirect Network Effects
+* Marketplace Network Effects
+* Community Effects
+
+Network Effects সম্ভব হলে কীভাবে তা তৈরি করা যায় তা ব্যাখ্যা করুন।
+
+## ২০. Legal এবং Regulatory Analysis
+
+সম্ভাব্য বিষয়গুলো শনাক্ত করুন:
+
+* Legal Risks
+* Licensing Requirements
+* Data Privacy Issues
+* Tax Requirements
+* Consumer Protection Requirements
+* Copyright Issues
+* Trademark Issues
+* Industry-specific Regulations
+
+General Considerations এবং Professional Legal Advice প্রয়োজন এমন বিষয়গুলো স্পষ্টভাবে আলাদা করুন।
+
+## ২১. SWOT Analysis
+
+ব্যবসাটিকে বিশ্লেষণ করুন:
+
+### Strengths
+
+### Weaknesses
+
+### Opportunities
+
+### Threats
+
+## ২২. Risk Analysis
+
+বিশ্লেষণ করুন:
+
+* Market Risk
+* Product Risk
+* Technical Risk
+* Financial Risk
+* Legal এবং Regulatory Risk
+* Operational Risk
+* Cybersecurity Risk
+* Customer Adoption Risk
+* Competition Risk
+
+প্রতিটি Risk-এর জন্য প্রদান করুন:
+
+* Risk Level
+* Potential Impact
+* Probability
+* Mitigation Strategy
+
+## ২৩. Validation Strategy
+
+অনেক সময় এবং অর্থ বিনিয়োগের আগে একটি বাস্তবসম্মত Validation Plan তৈরি করুন।
+
+বিশ্লেষণ করুন আমার ব্যবহার করা উচিত কি না:
+
+* Customer Interviews
+* Surveys
+* Competitor Research
+* Landing Pages
+* Prototypes
+* Waitlists
+* Pre-orders
+* Manual MVPs
+* No-code MVPs
+* Full MVP Development
+
+ধাপে ধাপে একটি Validation Plan তৈরি করুন এবং ব্যাখ্যা করুন কোন প্রমাণ নির্দেশ করবে যে ধারণাটি বাস্তবায়ন করা মূল্যবান।
+
+## ২৪. Defensibility Analysis
+
+প্রতিযোগীদের বিরুদ্ধে দীর্ঘমেয়াদি সুরক্ষা কীভাবে তৈরি করা যায় তা বিশ্লেষণ করুন।
+
+বিবেচনা করুন:
+
+* Brand
+* Technology
+* Proprietary Data
+* Community
+* Network Effects
+* Customer Loyalty
+* Exclusive Partnerships
+* Intellectual Property
+* Distribution Advantages
+
+## ২৫. Resource Analysis
+
+কী কী Resources প্রয়োজন তা নির্ধারণ করুন:
+
+* Money
+* People
+* Skills
+* Technology
+* Time
+* Partnerships
+* Infrastructure
+
+Essential Resources এবং Optional Resources স্পষ্টভাবে আলাদা করুন।
+
+## ২৬. Opportunity Cost Analysis
+
+এই ধারণাটি অনুসরণ করার মাধ্যমে আমি কী কী ত্যাগ করতে পারি তা বিশ্লেষণ করুন।
+
+* এই ধারণাটি কি অন্য সম্ভাব্য সুযোগগুলোর চেয়ে ভালো?
+* আমার Time এবং Money-এর বিকল্প ব্যবহার কী হতে পারে?
+* সম্ভাব্য Return কি Opportunity Cost-এর তুলনায় যথেষ্ট মূল্যবান?
+
+## ২৭. Scenario Analysis
+
+তিনটি Scenario তৈরি করুন:
+
+### Best Case Scenario
+
+সবকিছু অত্যন্ত ভালোভাবে চললে কী ঘটতে পারে?
+
+### Realistic Case Scenario
+
+যুক্তিসঙ্গত Assumption-এর ভিত্তিতে সবচেয়ে সম্ভাব্য ফলাফল কী?
+
+### Worst Case Scenario
+
+কী কী ভুল হতে পারে এবং এর পরিণতি কী হতে পারে?
+
+## ২৮. Kill Criteria
+
+কোন পরিস্থিতিতে ধারণাটি বন্ধ, পরিবর্তন বা Pivot করার কথা বিবেচনা করা উচিত তার স্পষ্ট শর্ত নির্ধারণ করুন।
+
+উদাহরণ:
+
+* অপর্যাপ্ত Customer Demand
+* Customer অর্থ প্রদান করতে অনিচ্ছুক
+* Customer Acquisition Cost অত্যন্ত বেশি
+* দুর্বল Customer Retention
+* টেকসই নয় এমন Unit Economics
+* শক্তিশালী প্রতিযোগিতা
+* Technical Limitations
+
+## ২৯. Execution Roadmap
+
+Idea থেকে Launch পর্যন্ত ধাপে ধাপে একটি Roadmap তৈরি করুন।
+
+### প্রথম ৩০ দিন
+
+Research, Validation, Customer Discovery এবং Initial Planning।
+
+### প্রথম ৬০ দিন
+
+Prototype অথবা MVP Development, Early Testing এবং Customer Feedback।
+
+### প্রথম ৯০ দিন
+
+Launch, Customer Acquisition, Measurement এবং Product Improvement।
+
+প্রতিটি Task-এর অগ্রাধিকার নির্ধারণ করুন:
+
+* Importance
+* Urgency
+* Cost
+* Expected Impact
+
+## ৩০. Final Expert Verdict
+
+সবশেষে একটি সরাসরি এবং সৎ সিদ্ধান্ত প্রদান করুন:
+
+* এই ধারণাটি কি বাস্তবসম্মত?
+* এটি কি একটি গুরুত্বপূর্ণ সমস্যার সমাধান করে?
+* পর্যাপ্ত Market Demand কি রয়েছে?
+* এটি কি একটি লাভজনক ব্যবসায় পরিণত হতে পারে?
+* ধারণাটির সবচেয়ে বড় দুর্বলতা কী?
+* সবচেয়ে বড় সুযোগ কী?
+* সবচেয়ে বড় Risk কী?
+* কোন পরিবর্তনগুলো ধারণাটিকে আরও শক্তিশালী করবে?
+* আমার কি এখনই শুরু করা উচিত?
+* আগে কি আরও Validation করা উচিত?
+* ধারণাটিকে কি Pivot করা উচিত?
+* এই ধারণার জন্য সেরা Business Strategy কী?
+* আমার প্রথমে কী করা উচিত?
+
+শুধু ধারণাটির প্রশংসা করবেন না। নিরপেক্ষ, সমালোচনামূলক, বাস্তবসম্মত এবং Data-driven বিশ্লেষণ করুন।
+
+যদি Current Market Data, Competitor Information, Pricing, Regulations অথবা Industry Trends প্রয়োজন হয়, তাহলে নির্ভরযোগ্য এবং আপ-to-date Source ব্যবহার করে যথাযথ Research করুন।
+
+নিচের বিষয়গুলোর মধ্যে স্পষ্ট পার্থক্য করুন:
+
+* Facts
+* Assumptions
+* Estimates
+* Opinions
+* Recommendations
+
+গুরুত্বপূর্ণ কোনো তথ্য অনুপস্থিত থাকলে Final Conclusion দেওয়ার আগে প্রয়োজনীয় Follow-up Question করুন।
+
+আপনার লক্ষ্য শুধু ধারণাটিকে ভালো হিসেবে উপস্থাপন করা নয়। আপনার লক্ষ্য হলো নির্ধারণ করা যে ধারণাটি আসলেই বাস্তবায়ন করার মতো কি না, কীভাবে এটিকে উন্নত করা যায়, কীভাবে এটি Validate করা যায় এবং কীভাবে এটিকে একটি টেকসই ও লাভজনক ব্যবসায় পরিণত করা যায়।
