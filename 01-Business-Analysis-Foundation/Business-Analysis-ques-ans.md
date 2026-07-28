@@ -1,3 +1,577 @@
+আমি পুরো Business Analyst interview preparation document বিশ্লেষণ করে একই প্রশ্নের পুনরাবৃত্তি বাদ দিয়ে একটি consolidated master question list তৈরি করেছি। Document-এ একই প্রশ্ন বিভিন্ন জায়গায় ভিন্নভাবে অনেকবার এসেছে, তাই আমি সেগুলো একত্র করে একটি প্রশ্ন একবারই রেখেছি।
+নিচে category অনুযায়ী সাজানো হলো।
+Business Analyst Interview Master Question Bank
+১. Personal, Career & General BA Questions
+নিজের সম্পর্কে বলুন এবং কেন আপনি Business Analyst পদের জন্য উপযুক্ত?
+আপনি কেন Business Analyst হতে চান?
+কেন আমরা আপনাকে নিয়োগ দেব?
+একজন Business Analyst হিসেবে আপনার প্রধান দক্ষতাগুলো কী?
+Business Analyst-এর জন্য কোন Soft Skills সবচেয়ে গুরুত্বপূর্ণ?
+Business Analyst-এর জন্য কোন Hard Skills সবচেয়ে গুরুত্বপূর্ণ?
+আমাদের কোম্পানিতে Business Analyst হিসেবে নিজেকে কতটা যোগ্য মনে করেন?
+একজন Business Analyst-এর প্রধান দায়িত্বগুলো কী?
+একটি প্রতিষ্ঠানে Business Analyst-এর ভূমিকা কী?
+Business Analysis বলতে কী বোঝায়?
+Business Analyst এবং Business Analytics-এর মধ্যে পার্থক্য কী?
+Business Analysis এবং Data Science-এর মধ্যে পার্থক্য কী?
+Business Analyst হিসেবে আপনার ভূমিকার সাফল্য কীভাবে সংজ্ঞায়িত করবেন?
+একটি Project সফল হয়েছে কিনা কীভাবে পরিমাপ করবেন?
+Business Analyst হিসেবে আপনার প্রধান চ্যালেঞ্জ কী ছিল?
+কোনো জটিল সমস্যা সমাধানের একটি বাস্তব উদাহরণ দিন।
+Business Analyst হিসেবে আপনার কোনো ব্যর্থতার অভিজ্ঞতা এবং তা থেকে কী শিখেছেন?
+আপনি কীভাবে Industry Trend সম্পর্কে আপডেট থাকেন?
+আপনার Domain Knowledge কম থাকলে কীভাবে কাজ করবেন?
+আপনি কোন কোন Business Analysis Tools ব্যবহার করেছেন?
+আপনার Technical Skills কী কী?
+আপনি কি Database বা Business Intelligence সম্পর্কে জানেন?
+আপনি কোন কোন Data Analysis বা Reporting Tools জানেন?
+আপনি কি SQL জানেন? SQL কীভাবে ব্যবহার করেন?
+আপনি কীভাবে নতুন কোনো Tool দ্রুত শিখেছেন?
+আগামী ৫ বা ১০ বছর পর নিজেকে কোথায় দেখতে চান?
+চাপের মধ্যে কাজ করতে পারেন?
+আপনার Strength এবং Weakness কী?
+আপনি কি Team-এর সাথে কাজ করতে স্বাচ্ছন্দ্যবোধ করেন?
+Cross-functional Team-এর সাথে কাজ করার অভিজ্ঞতা কেমন?
+আপনি কীভাবে নিজেকে Motivated রাখেন?
+আপনি কি Constructive Criticism পেয়েছেন? কীভাবে প্রতিক্রিয়া জানিয়েছেন?
+আপনি যদি নতুন Domain-এ কাজ পান, কীভাবে নিজেকে প্রস্তুত করবেন?
+আপনি কি নিজের নির্ধারিত দায়িত্বের বাইরে গিয়ে কাজ করেছেন?
+Deadline কীভাবে পরিচালনা করেন?
+
+২. Business Analysis Fundamentals
+Business Analysis কী?
+Business Analyst এবং Project Manager-এর মধ্যে পার্থক্য কী?
+Business Analyst এবং Product Owner-এর মধ্যে পার্থক্য কী?
+Business Analyst এবং Scrum Master-এর মধ্যে পার্থক্য কী?
+Business Analyst কীভাবে Business এবং IT Team-এর মধ্যে Bridge হিসেবে কাজ করেন?
+Business Analyst-এর কাজ Project-এর কোন কোন পর্যায়ে থাকে?
+Business Analyst-এর জন্য Business Understanding কেন গুরুত্বপূর্ণ?
+Business Analyst কীভাবে Business Problem শনাক্ত করেন?
+Business Analyst কীভাবে Business Goal শনাক্ত করেন?
+Business Problem এবং Business Requirement-এর মধ্যে পার্থক্য কী?
+Business Goal এবং Business Objective-এর মধ্যে পার্থক্য কী?
+Business Requirement এবং Functional Requirement-এর মধ্যে পার্থক্য কী?
+Functional Requirement এবং Non-Functional Requirement-এর মধ্যে পার্থক্য কী?
+Business Rule এবং Requirement-এর মধ্যে পার্থক্য কী?
+Requirement এবং Feature-এর মধ্যে পার্থক্য কী?
+Business Model কী?
+Business Model Roadmap কী?
+Business Case কী এবং এর উদ্দেশ্য কী?
+Business Case কীভাবে তৈরি করবেন?
+Cost-Benefit Analysis কী?
+Feasibility Study-এর উদ্দেশ্য কী?
+Feasibility Analysis কী?
+Technical Feasibility কী?
+Economic বা Financial Feasibility কী?
+Operational Feasibility কী?
+Schedule Feasibility কী?
+Legal Feasibility কী?
+Feasibility Study কখন করা হয়?
+একটি নতুন Business Idea কীভাবে Evaluate করবেন?
+নতুন Product বা Service-এর Business Model কীভাবে শুরু করবেন?
+একটি Business Solution বাস্তবায়নের আগে কোন বিষয়গুলো বিশ্লেষণ করবেন?
+
+৩. Requirement Engineering & Elicitation
+Requirement কী?
+Requirement Elicitation কী?
+Requirement Gathering এবং Requirement Elicitation-এর মধ্যে পার্থক্য কী?
+Requirement Elicitation-এর গুরুত্বপূর্ণ Techniques কী কী?
+Interview কীভাবে Requirement সংগ্রহে ব্যবহার করবেন?
+Workshop কীভাবে Requirement সংগ্রহে ব্যবহার করবেন?
+Brainstorming কীভাবে Requirement সংগ্রহে ব্যবহার করবেন?
+Observation কীভাবে Requirement সংগ্রহে ব্যবহার করবেন?
+Survey বা Questionnaire কীভাবে Requirement সংগ্রহে ব্যবহার করবেন?
+Document Analysis কীভাবে Requirement সংগ্রহে ব্যবহার করবেন?
+Prototyping কীভাবে Requirement Elicitation-এ সাহায্য করে?
+কোন Requirement Elicitation Technique কখন ব্যবহার করবেন?
+Requirement Elicitation Technique নির্বাচন কোন কোন বিষয়ের উপর নির্ভর করে?
+Non-Technical Stakeholder-এর কাছ থেকে কীভাবে Requirement সংগ্রহ করবেন?
+Stakeholder Requirement না জানলে কী করবেন?
+গুরুত্বপূর্ণ Stakeholder Requirement Gathering Meeting-এ অনুপস্থিত থাকলে কী করবেন?
+অস্পষ্ট Requirement কীভাবে পরিচালনা করবেন?
+Incomplete Requirement কীভাবে পরিচালনা করবেন?
+Conflicting Requirement কীভাবে সমাধান করবেন?
+Continuously Changing Requirement কীভাবে পরিচালনা করবেন?
+Requirement বারবার পরিবর্তন হলে কী করবেন?
+Client যদি Unrealistic Requirement দেয়, কী করবেন?
+Requirement-এর Quality কীভাবে নিশ্চিত করবেন?
+একটি ভালো Requirement-এর বৈশিষ্ট্য কী?
+Requirement কীভাবে Clear করবেন?
+Requirement কীভাবে Complete করবেন?
+Requirement কীভাবে Consistent করবেন?
+Requirement কীভাবে Testable করবেন?
+Requirement কীভাবে Measurable করবেন?
+Requirement কীভাবে Traceable করবেন?
+Requirement কীভাবে Validate করবেন?
+Requirement কীভাবে Verify করবেন?
+Requirement-এ Ambiguity কীভাবে দূর করবেন?
+Requirement Document করার জন্য কী ধরনের Document ব্যবহার করা হয়?
+Requirement Document করার জন্য কোন Tools ব্যবহার করা হয়?
+Requirement-এর জন্য কোন Visual Model ব্যবহার করা হয়?
+Requirement থেকে Solution-এ কীভাবে যাবেন?
+Business Requirement থেকে Functional Requirement কীভাবে তৈরি করবেন?
+Functional Requirement থেকে Software Solution কীভাবে তৈরি হয়?
+
+৪. Requirement Prioritization
+Requirement Prioritization কী?
+Requirement Prioritization কেন গুরুত্বপূর্ণ?
+Requirement কীভাবে Priority অনুযায়ী সাজাবেন?
+MoSCoW Prioritization কী?
+MoSCoW-এর Must Have, Should Have, Could Have এবং Won't Have কী?
+Kano Model কী?
+Requirement Prioritization-এ Kano Model কীভাবে ব্যবহার করবেন?
+Importance versus Urgency Matrix কী?
+Importance versus Urgency Matrix কীভাবে ব্যবহার করবেন?
+Business Value অনুযায়ী Requirement কীভাবে Prioritize করবেন?
+Cost versus Benefit অনুযায়ী Requirement কীভাবে Prioritize করবেন?
+Stakeholder Importance অনুযায়ী Requirement কীভাবে Prioritize করবেন?
+Risk অনুযায়ী Requirement কীভাবে Prioritize করবেন?
+Stakeholder-দের Priority ভিন্ন হলে কী করবেন?
+Conflicting Priorities কীভাবে পরিচালনা করবেন?
+Limited Resource থাকলে কোন Requirement আগে করবেন?
+Backlog-এ অনেক User Story, Feature এবং Epic থাকলে কীভাবে সাজাবেন?
+
+৫. Requirement Documentation
+BRD কী?
+BRD-এর উদ্দেশ্য কী?
+FRD কী?
+FRD-এর উদ্দেশ্য কী?
+BRD এবং FRD-এর মধ্যে পার্থক্য কী?
+BRD এবং SRS-এর মধ্যে পার্থক্য কী?
+FRD এবং SRS-এর মধ্যে পার্থক্য কী?
+SRS কী?
+SRS-এর মূল উপাদানগুলো কী?
+BRD কেন প্রয়োজন?
+FRD কেন প্রয়োজন?
+SRS কেন প্রয়োজন?
+BRD-তে কী কী থাকে?
+FRD-তে কী কী থাকে?
+SRS-এ কী কী থাকে?
+Functional Requirement কীভাবে Document করবেন?
+Non-Functional Requirement কীভাবে Document করবেন?
+System Constraints কীভাবে Document করবেন?
+Interface এবং Data Requirement কীভাবে Document করবেন?
+Requirement Documentation এবং Agile User Story-এর মধ্যে পার্থক্য কী?
+Agile Project-এ আলাদা BRD বা FRD প্রয়োজন কি?
+Requirement Document কে ব্যবহার করে?
+Developer, QA এবং BA-এর জন্য Requirement Document-এর গুরুত্ব কী?
+
+৬. RTM & Requirement Change Management
+RTM কী?
+Requirement Traceability Matrix কেন গুরুত্বপূর্ণ?
+RTM কীভাবে তৈরি করবেন?
+RTM-এ কী কী তথ্য থাকে?
+Requirement থেকে Test Case কীভাবে Trace করবেন?
+Requirement Coverage কী?
+Requirement Change Management কী?
+Change Request কী?
+Change Request কীভাবে Review করবেন?
+Change Request-এর Impact Analysis কীভাবে করবেন?
+Requirement Change-এর Business Impact কীভাবে বিশ্লেষণ করবেন?
+Requirement Change-এর Technical Impact কীভাবে বিশ্লেষণ করবেন?
+Requirement Change-এর Cost Impact কীভাবে বিশ্লেষণ করবেন?
+Requirement Change-এর Schedule Impact কীভাবে বিশ্লেষণ করবেন?
+Scope Creep কী?
+Scope Creep কীভাবে নিয়ন্ত্রণ করবেন?
+Scope Creep-এর অসুবিধা কী?
+Scope Control কী?
+Requirement Volatility কীভাবে পরিচালনা করবেন?
+
+৭. Stakeholder Analysis & Management
+Stakeholder কে?
+Stakeholder Analysis কী?
+Stakeholder কীভাবে শনাক্ত করবেন?
+Stakeholder-দের কীভাবে Classify করবেন?
+Stakeholder-দের কীভাবে Categorize করবেন?
+Stakeholder Matrix কী?
+Power-Interest Matrix কী?
+High Power-High Interest Stakeholder কীভাবে পরিচালনা করবেন?
+High Power-Low Interest Stakeholder কীভাবে পরিচালনা করবেন?
+Low Power-High Interest Stakeholder কীভাবে পরিচালনা করবেন?
+Low Power-Low Interest Stakeholder কীভাবে পরিচালনা করবেন?
+Stakeholder Map এবং Stakeholder Register-এর মধ্যে পার্থক্য কী?
+Stakeholder Register কী?
+Stakeholder Metrics কী?
+Stakeholder Communication কীভাবে পরিচালনা করবেন?
+Stakeholder Communication Strategy কী?
+Difficult বা Challenging Stakeholder কীভাবে পরিচালনা করবেন?
+Stakeholder আপনার Solution Reject করলে কী করবেন?
+Stakeholder আপনার Deliverable ভুল বুঝলে কী করবেন?
+Stakeholder-দের মধ্যে Conflict হলে কী করবেন?
+Stakeholder-দের মধ্যে Conflicting Requirement থাকলে কী করবেন?
+নতুন Stakeholder-কে Project-এর মাঝপথে কীভাবে Onboard করবেন?
+Stakeholder-এর Expectation কীভাবে Manage করবেন?
+Stakeholder-এর Requirement কীভাবে Validate করবেন?
+Stakeholder-এর Feedback কীভাবে সংগ্রহ করবেন?
+Stakeholder-দের সাথে কীভাবে কার্যকরভাবে যোগাযোগ করবেন?
+
+৮. Business Process Analysis & Design
+Business Process কী?
+Business Process Analysis কী?
+Process Design কী?
+Process Modeling কী?
+Process Improvement কী?
+As-Is Process কী?
+To-Be Process কী?
+As-Is এবং To-Be Process-এর মধ্যে পার্থক্য কী?
+As-Is Process কীভাবে Analyse করবেন?
+To-Be Process কীভাবে Design করবেন?
+Process Map কী?
+Workflow Diagram কী?
+Process Map এবং Workflow Diagram-এর মধ্যে পার্থক্য কী?
+Functional Decomposition কী?
+Process Decomposition কী?
+Process-এর Bottleneck কীভাবে শনাক্ত করবেন?
+Process-এর Delay কীভাবে শনাক্ত করবেন?
+Process-এর Waste কীভাবে শনাক্ত করবেন?
+Process Improvement-এর জন্য Root Cause কীভাবে শনাক্ত করবেন?
+Business Process কীভাবে Simplify করবেন?
+Business Process কীভাবে Automate করবেন?
+Business Process Re-engineering বা BPR কী?
+BPR-এর উদ্দেশ্য কী?
+একটি Business Process উন্নত করার বাস্তব উদাহরণ দিন।
+Process Improvement-এ একজন BA-এর ভূমিকা কী?
+Process Improvement-এর Success কীভাবে Measure করবেন?
+
+৯. Business Process Modeling & Diagrams
+BPMN কী?
+BPMN কেন ব্যবহার করা হয়?
+BPMN-এর প্রধান উপাদানগুলো কী?
+BPMN-এর বিভিন্ন Category কী?
+BPMN কীভাবে Business Process Modeling-এ ব্যবহার করবেন?
+UML কী?
+UML Modeling কী?
+UML কেন ব্যবহার করা হয়?
+Use Case Diagram কী?
+Use Case Diagram-এর প্রধান উপাদান কী?
+Actor কী?
+Use Case কী?
+Use Case কীভাবে Design করবেন?
+Basic Flow কী?
+Alternate Flow কী?
+Exception Flow কী?
+Basic Flow, Alternate Flow এবং Exception Flow-এর মধ্যে পার্থক্য কী?
+Precondition কী?
+Postcondition কী?
+Context Diagram কী?
+Context Diagram-এর উদ্দেশ্য কী?
+DFD কী?
+DFD-এর প্রধান উপাদান কী?
+DFD-এর বিভিন্ন Level কী?
+Level-0 DFD বা Context Diagram কী?
+Level-1 DFD কী?
+Level-2 DFD কী?
+ERD কী?
+ERD কেন ব্যবহার করা হয়?
+Sequence Diagram কী?
+Sequence Diagram কখন ব্যবহার করবেন?
+State Diagram কী?
+State Diagram কখন ব্যবহার করবেন?
+Decision Table কী?
+Decision Table কখন ব্যবহার করবেন?
+Flowchart কী?
+Flowchart কেন গুরুত্বপূর্ণ?
+Fishbone Diagram কী?
+Fishbone Diagram-এর উদ্দেশ্য কী?
+Pareto Chart কী?
+Pareto Chart কখন ব্যবহার করবেন?
+Control Chart কী?
+Control Chart Process Improvement-এ কীভাবে ব্যবহার করবেন?
+Data Model কী?
+Data Modeling কেন গুরুত্বপূর্ণ?
+Data Dictionary এবং Data Schema-এর মধ্যে পার্থক্য কী?
+
+১০. Use Case, User Story & Agile Requirements
+Use Case এবং User Story-এর মধ্যে পার্থক্য কী?
+User Story কী?
+User Story কীভাবে লিখবেন?
+User Story-এর Acceptance Criteria কী?
+INVEST Principle কী?
+INVEST Principle User Story লেখায় কীভাবে ব্যবহার করবেন?
+Epic কী?
+Feature এবং User Story-এর মধ্যে পার্থক্য কী?
+Product Backlog কী?
+Backlog কীভাবে Prioritize করবেন?
+Agile Framework কী?
+Agile Manifesto কী?
+Agile-এর মূল Principles কী?
+Agile Methodology-তে একজন BA-এর ভূমিকা কী?
+Agile Team-এ BA কেন প্রয়োজন?
+Product Owner এবং BA-এর মধ্যে পার্থক্য কী?
+Scrum Master এবং BA-এর মধ্যে পার্থক্য কী?
+Scrum Team-এ BA-এর ভূমিকা কী?
+Agile Methodology-তে Events কী?
+Scrum-এর গুরুত্বপূর্ণ Events কী কী?
+Sprint কী?
+Sprint Planning কী?
+Daily Scrum কী?
+Sprint Review কী?
+Sprint Retrospective কী?
+Product Backlog Refinement কী?
+Velocity কী?
+Velocity কীভাবে Calculate করা হয়?
+Velocity কীভাবে ব্যবহার করা হয়?
+Sprint Burndown Chart কী?
+Sprint Burndown Chart কীভাবে ব্যবহার করা হয়?
+Scrum এবং Kanban-এর মধ্যে পার্থক্য কী?
+Agile এবং Waterfall-এর মধ্যে পার্থক্য কী?
+Agile Project-এ Continuously Changing Requirement কীভাবে Manage করবেন?
+Agile Environment-এ Requirement Documentation কীভাবে করবেন?
+Agile Project-এ Stakeholder Involvement কীভাবে নিশ্চিত করবেন?
+Agile Project-এ BA-এর Role কীভাবে পরিবর্তিত হয়?
+
+১১. SDLC, Waterfall & Development Methodology
+SDLC কী?
+SDLC-এর বিভিন্ন ধাপ কী?
+SDLC-এর প্রতিটি ধাপে BA-এর ভূমিকা কী?
+Project Development Life Cycle-এর ধাপ কী?
+Waterfall Model কী?
+Agile Model কী?
+Waterfall এবং Agile-এর মধ্যে পার্থক্য কী?
+RUP কী?
+RUP-এর বিভিন্ন Phase কী?
+RAD কী?
+Rapid Application Development কী?
+Requirements Work Plan কী?
+Project-এর সবচেয়ে Critical Phase কোনটি?
+Project কীভাবে শুরু করবেন?
+নতুন Project শুরু করার সময় BA কী কী কাজ করেন?
+Development Approach কীভাবে নির্বাচন করবেন?
+Project Type অনুযায়ী Agile বা Waterfall কীভাবে নির্বাচন করবেন?
+
+১২. Testing, UAT & Solution Validation
+Software Testing Phase-এ BA-এর ভূমিকা কী?
+UAT কী?
+UAT-এ BA-এর ভূমিকা কী?
+BA কীভাবে UAT Test Case তৈরি বা যাচাই করেন?
+Solution Business Requirement পূরণ করছে কিনা কীভাবে যাচাই করবেন?
+Testing-এর সময় Solution Fail করলে BA কী করবেন?
+Delivery করা Solution প্রত্যাশা অনুযায়ী না হলে কী করবেন?
+Requirement এবং Test Case কীভাবে Trace করবেন?
+Acceptance Criteria কী?
+Solution Validation কী?
+Solution Verification কী?
+Solution-এর Quality কীভাবে নিশ্চিত করবেন?
+Solution বাস্তবায়নের পরে Success কীভাবে Measure করবেন?
+Live System Business Goal পূরণ করছে কিনা কীভাবে যাচাই করবেন?
+User Feedback কীভাবে সংগ্রহ করবেন?
+Solution-এর Future Improvement কীভাবে শনাক্ত করবেন?
+
+১৩. Data Analysis & Business Intelligence
+Business Analyst-এর কাজে Data Analysis-এর ভূমিকা কী?
+Data Analysis কী?
+Data Analysis-এর ধাপগুলো কী?
+Business Question কীভাবে Define করবেন?
+Relevant Data কীভাবে সংগ্রহ করবেন?
+Data Cleaning কী?
+Data Validation কী?
+Data Accuracy কীভাবে নিশ্চিত করবেন?
+Data Consistency কীভাবে নিশ্চিত করবেন?
+Data Discrepancy পেলে কী করবেন?
+Large Dataset কীভাবে পরিচালনা করবেন?
+Data থেকে Trend কীভাবে শনাক্ত করবেন?
+Data থেকে Pattern কীভাবে শনাক্ত করবেন?
+Data থেকে Anomaly কীভাবে শনাক্ত করবেন?
+Data Visualization-এর ভূমিকা কী?
+Business Insight কীভাবে তৈরি করবেন?
+Data-driven Recommendation কীভাবে দেবেন?
+SQL কীভাবে Business Analysis-এ ব্যবহার করেন?
+SQL Statement-এর প্রধান অংশগুলো কী?
+OLAP এবং OLTP-এর মধ্যে পার্থক্য কী?
+ETL কী?
+ETL Business Analyst-এর জন্য কেন গুরুত্বপূর্ণ?
+Excel কীভাবে Business Analysis-এ ব্যবহার করেন?
+Power BI কীভাবে Business Analysis-এ ব্যবহার করেন?
+Tableau কীভাবে Business Analysis-এ ব্যবহার করেন?
+
+১৪. KPI, Metrics & Performance Measurement
+KPI কী?
+KPI এবং Metric-এর মধ্যে পার্থক্য কী?
+KPI-এর মূল বৈশিষ্ট্য কী?
+KPI কীভাবে নির্ধারণ করবেন?
+Business Goal-এর সাথে KPI কীভাবে Align করবেন?
+Project Success কীভাবে Measure করবেন?
+Process Performance কীভাবে Measure করবেন?
+Solution-এর Success কীভাবে Measure করবেন?
+Stakeholder Metrics কী?
+কোন KPI ব্যবহার করবেন তা কীভাবে নির্ধারণ করবেন?
+
+১৫. Risk, Issue & Problem Management
+Risk Management কী?
+Risk কী?
+Issue কী?
+Problem কী?
+Risk এবং Issue-এর মধ্যে পার্থক্য কী?
+Problem এবং Issue-এর মধ্যে পার্থক্য কী?
+Problem Management কী?
+Risk কীভাবে শনাক্ত করবেন?
+Risk কীভাবে Analyse করবেন?
+Risk কীভাবে Prioritize করবেন?
+Risk কীভাবে Manage করবেন?
+Risk Management-এ BA-এর ভূমিকা কী?
+Project Risk কীভাবে মূল্যায়ন করবেন?
+Limited Resource থাকলে Project কীভাবে পরিচালনা করবেন?
+Technology Limitation থাকলে কীভাবে Solution দেবেন?
+Project Delay হওয়ার সম্ভাবনা থাকলে কী করবেন?
+Project Schedule পিছিয়ে গেলে কী করবেন?
+Budget ২০% কমে গেলে Plan কীভাবে পরিবর্তন করবেন?
+
+১৬. Root Cause & Problem Solving
+Root Cause Analysis কী?
+Five Whys Technique কী?
+Five Whys কীভাবে ব্যবহার করবেন?
+Fishbone Diagram কীভাবে Root Cause Analysis-এ ব্যবহার করবেন?
+Business Problem-এর Root Cause কীভাবে শনাক্ত করবেন?
+Problem এবং Symptom-এর মধ্যে পার্থক্য কী?
+Problem Solving Process কী?
+একাধিক Solution Option কীভাবে তুলনা করবেন?
+সবচেয়ে কার্যকর Solution কীভাবে নির্বাচন করবেন?
+Data Problem Solving-এ কী ভূমিকা রাখে?
+Complex Problem কীভাবে Structure করবেন?
+Case Study Problem কীভাবে Analyse করবেন?
+Case Study-তে কীভাবে Clarifying Question করবেন?
+Case Study-তে Thought Process কীভাবে উপস্থাপন করবেন?
+Guesstimate Question কী?
+Guesstimate কীভাবে Solve করবেন?
+
+১৭. Gap, SWOT, PESTEL & Strategic Analysis
+Gap Analysis কী?
+Gap Analysis কেন করা হয়?
+Gap-এর বিভিন্ন ধরন কী?
+Current State এবং Future State-এর Gap কীভাবে শনাক্ত করবেন?
+SWOT Analysis কী?
+SWOT Analysis-এর চারটি উপাদান কী?
+নতুন Business Initiative Evaluate করতে SWOT কীভাবে ব্যবহার করবেন?
+PESTEL Analysis কী?
+PESTEL Analysis-এর উপাদানগুলো কী?
+PESTEL Analysis কীভাবে ব্যবহার করবেন?
+Benchmarking কী?
+Benchmarking কীভাবে করা হয়?
+Business-এর Performance কীভাবে Benchmark করবেন?
+
+১৮. Project Management & Responsibility
+WBS কী?
+WBS-এর গুরুত্ব কী?
+Project Scope কী?
+Project Scope কীভাবে Define করবেন?
+Project Scope এবং Product Scope-এর মধ্যে পার্থক্য কী?
+RACI Matrix কী?
+RACI Matrix-এর Responsible, Accountable, Consulted এবং Informed কী?
+RACI Matrix Project-এ কীভাবে ব্যবহার করবেন?
+JAD কী?
+JAD Requirement Gathering-এ কীভাবে ব্যবহার হয়?
+SIPOC কী?
+SIPOC-এর প্রতিটি উপাদান কী?
+Deliverable কী?
+Deliverable-এর Quality কীভাবে নিশ্চিত করবেন?
+Project Deadline কীভাবে Manage করবেন?
+Project Resource কীভাবে Manage করবেন?
+Project-এর Scope, Time এবং Cost-এর মধ্যে Balance কীভাবে করবেন?
+
+১৯. System & Software Analysis
+System Analysis কী?
+Object Analysis কী?
+Object Analysis-এর উদ্দেশ্য কী?
+Object Analysis-এর বিভিন্ন ধাপ কী?
+Reverse Engineering কী?
+Reverse Engineering-এর সুবিধা কী?
+CRUD কী?
+CRUD Matrix কী?
+CRUD Matrix কীভাবে ব্যবহার করবেন?
+COTS Product কী?
+COTS Solution এবং Custom Solution-এর মধ্যে পার্থক্য কী?
+Legacy System কী?
+Legacy System Replace করার Analysis Process কী?
+System Constraint কী?
+System Interface কী?
+Data Requirement কী?
+Business Logic কী?
+Error Handling Requirement কী?
+System-এর Performance Requirement কী?
+System-এর Security Requirement কী?
+System-এর Usability Requirement কী?
+System-এর Reliability Requirement কী?
+System-এর Scalability Requirement কী?
+
+২০. Business Case Study Questions
+একটি শহরে নতুন Coffee Shop খোলা লাভজনক হবে কিনা কীভাবে Analyse করবেন?
+একটি নতুন Product-এর App Marketing কীভাবে করবেন?
+একটি Soap Company Marketplace-এ Product বিক্রি করবে নাকি নিজস্ব Website-এ?
+কোনো Product-এর Sales হঠাৎ কমে গেলে কীভাবে Analyse করবেন?
+ফেব্রুয়ারি মাসে Sales কমে গেলে কীভাবে কারণ বের করবেন?
+Revenue Stream-এ কী ধরনের সমস্যা থাকতে পারে?
+নতুন Market-এ প্রবেশের আগে কী কী Analyse করবেন?
+নতুন Product Launch করার আগে কী কী Analyse করবেন?
+কোনো Business-এর Operational Cost কীভাবে কমাবেন?
+Customer Satisfaction কমে গেলে কীভাবে Analyse করবেন?
+একটি Manual Process Automation করার আগে কী কী Analyse করবেন?
+একটি নতুন Software কেনার আগে কীভাবে সিদ্ধান্ত নেবেন?
+কোনো Solution বাস্তবায়নের পরে ROI কীভাবে Measure করবেন?
+একটি Business-এর Profit কমে গেলে কীভাবে Analyse করবেন?
+একটি E-commerce Company-এর ৬ মাসের Sales Data কীভাবে Analyse করবেন?
+Budget কমে গেলে Project Plan কীভাবে পরিবর্তন করবেন?
+Business Stakeholder এবং Technical Team-এর মধ্যে Conflict হলে কী করবেন?
+একটি নতুন Startup-এর Brand New Product-এর Marketing Strategy কী হবে?
+একটি Legacy System Replace করার জন্য কীভাবে Analysis করবেন?
+Limited Budget এবং Limited Resource নিয়ে Project কীভাবে Deliver করবেন?
+Client-এর Requirement অস্পষ্ট হলে কীভাবে Solution বের করবেন?
+
+Document থেকে সবচেয়ে গুরুত্বপূর্ণ Core Questions
+যদি তোমার দ্রুত চাকরি পাওয়ার জন্য Business Analyst Interview Preparation করতে হয়, তাহলে প্রথমে এই প্রশ্নগুলো সবচেয়ে ভালোভাবে শিখবে:
+নিজের সম্পর্কে বলুন।
+কেন Business Analyst হতে চান?
+Business Analyst-এর ভূমিকা কী?
+Business Analysis কী?
+Requirement Elicitation কী?
+Requirement Elicitation Techniques কী কী?
+Requirement Prioritization কী?
+MoSCoW কী?
+INVEST কী?
+BRD এবং FRD-এর পার্থক্য কী?
+BRD এবং SRS-এর পার্থক্য কী?
+Functional এবং Non-Functional Requirement কী?
+RTM কী?
+Requirement Change Management কী?
+Impact Analysis কী?
+Scope Creep কী?
+Stakeholder Analysis কী?
+Difficult Stakeholder কীভাবে Manage করবেন?
+Business Process কী?
+As-Is এবং To-Be Process কী?
+Process Design কী?
+Feasibility Study কী?
+UML Modeling কী?
+BPMN কী?
+Use Case এবং User Story-এর পার্থক্য কী?
+Agile এবং Waterfall-এর পার্থক্য কী?
+Agile-এ BA-এর ভূমিকা কী?
+Scrum-এ BA-এর ভূমিকা কী?
+UAT-এ BA-এর ভূমিকা কী?
+SDLC-এর ধাপগুলো কী?
+Gap Analysis কী?
+SWOT Analysis কী?
+Root Cause Analysis কী?
+Five Whys কী?
+Risk এবং Issue-এর পার্থক্য কী?
+KPI এবং Metric-এর পার্থক্য কী?
+Data Analysis কী?
+SQL কীভাবে ব্যবহার করেন?
+RACI Matrix কী?
+SIPOC কী?
+JAD কী?
+CRUD কী?
+COTS কী?
+WBS কী?
+RFI, RFQ, RFP এবং ROI কী?
+Case Study কীভাবে Solve করবেন?
+Guesstimate কীভাবে Solve করবেন?
+কোনো Requirement অস্পষ্ট হলে কী করবেন?
+Stakeholder-এর Requirement পরস্পরবিরোধী হলে কী করবেন?
+Project Delay হলে কী করবেন?
+আমার বিশ্লেষণ অনুযায়ী, document-এর সবচেয়ে বড় সমস্যা হলো একই প্রশ্ন অনেকবার ভিন্ন ভাষায় পুনরাবৃত্তি করা হয়েছে। আমি উপরের তালিকায় সেই duplicate প্রশ্নগুলো merge করেছি। ফলে এটি এখন একটি clean, non-repetitive Business Analyst Master Interview Question Bank হিসেবে ব্যবহার করা যাবে।
+
+
+
 Business Analyst Interview Preparation
 সবচেয়ে গুরুত্বপূর্ণ ৫০টি Core Question ও সহজ Professional Answer
 
