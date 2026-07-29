@@ -1,3 +1,6 @@
+Business Case Study = অনেকগুলো Analysis-এর ফলাফল একসাথে নিয়ে একটি Business Decision নেওয়া।
+অর্থাৎ,
+Business Case Study = Market Analysis + Customer Analysis + Competitor Analysis + Feasibility Study + Financial Analysis + Risk Analysis + অন্যান্য প্রয়োজনীয় Analysis + Final Recommendation
 
 # 🚀 Part 1: Business Idea Analysis
 
